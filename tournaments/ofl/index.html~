@@ -104,10 +104,10 @@
 
       <img src="logo300.png"/>
       <h2 id="introduciton">osu! UCI Fall LAN</h2>
-      <p>osu! UCI is excited to host its first osu! LAN at UCI this fall quarter. Over the event, we'll be hosting casual lobbies and streaming all day, in addition to a managing a tournament for players. This is a live BYOC(Bring Your Own Computer) event, so make sure to bring all your necessary gadgets and accessories.</p>
+      <p>osu! UCI is excited to host its first osu! LAN at UCI this fall quarter. Over the event, we'll be hosting casual lobbies and streaming all day, in addition to a managing a tournament for competitive players. This is a live BYOC(Bring Your Own Computer) event, so make sure to bring all your necessary gadgets and accessories.</p>
 
       <h2 id="location">Location</h2>
-      <p>The OFL takes place on Sunday November 22nd, 2015 from 9AM to 9PM PST/GMT-8. We are located in the Emerald Bay Meeeting Rooms in the UCI Student Center, full address: <a href="https://www.google.com/maps/place/UCI+Student+Center+%26+Event+Services/@33.6489599,-117.8444107,17z/data=!3m1!4b1!4m2!3m1!1s0x0:0x54a63a5775b1ff92">311 W Peltason Dr, Irvine, CA 92697</a>. Food is not provided at the event, but there are plenty of chains and restaurants in walking distance around the area. All-day parking is available in the adjacent Student Center Parking Structure for $10.</p>
+      <p>The OFL takes place on Sunday November 22nd, 2015 from 9AM to 9PM PST/GMT-8. We are located in the Emerald Bay B Room in the UCI Student Center, full address: <a href="https://www.google.com/maps/place/UCI+Student+Center+%26+Event+Services/@33.6489599,-117.8444107,17z/data=!3m1!4b1!4m2!3m1!1s0x0:0x54a63a5775b1ff92">311 W Peltason Dr, Irvine, CA 92697</a>. Food is not provided at the event, but there are plenty of chains and restaurants in walking distance around the area. All-day parking is available in the adjacent Student Center Parking Structure for $10.</p>
 
       <img src="emeraldBay.png">
       <p class="caption">Emerald Bay Rooms in the Student Center</p>
@@ -119,26 +119,25 @@
 	<input type="hidden" name="hosted_button_id" value="T4SUEEPJT6NQ2">
 	<input style="display: block; margin: auto" type="image" src="https://www.paypalobjects.com/webstatic/en_US/i/buttons/checkout-logo-large.png" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
       </form>
-      <p>In addition, please fill out this Google form so we can better organize you in the tournament and reach you in case of an emergency.</p>
+      <p>In addition, please fill out this Google form so we can better organize you in our tournament and reach you in case of an emergency.</p>
       <div>
 	<iframe src="https://docs.google.com/forms/d/1fo726r0ZY7epfToDx5-xAQs0m4wNU6gy9HcY_ZYkZSo/viewform?embedded=true" width="650" height="1200" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
       </div>
 
       <h2 id="format">Format</h2>
-      <p>Phase 1</p>
+      <p>Swiss</p>
       <ul>
-	<li>Swiss</li>
 	<li>4 rounds, one hour each</li>
 	<li>First to 4 wins</li>
-	<li>Top 8 advance to phase 2</li>
+	<li>Top 8 advance to next stage</li>
       </ul>
 
-      <p>Phase 2</p>
+      <p>Top 8</p>
       <ul>
 	<li>Single elimination</li>
 	<li>4 rounds, one hour each</li>
-	<li>Round of 8 is first to 5 wins</li>
-	<li>Semis, consolation, and finals are first to 6 wins</li>
+	<li>Round of 8 is first to 4 wins</li>
+	<li>Semis, consolation, and finals are first to 5 wins</li>
       </ul>
 
       <h2 id="prizing">Prizing</h2>
@@ -148,9 +147,9 @@
 	<li>2nd: 2 months of supporter, two-K, osu! UCI merchandise</li>
 	<li>3rd: 1 month of supporter, two-K, osu! UCI merchandise</li>
 	<li>4th: 1 month of supporter, two-K, osu! UCI merchandise</li>
-	<li>5-8th: 1 month of supporter, osu! UCI merchandise</li>
+	<li>5-8th: 1 month of supporter</li>
       </ul>
-      <p>osu! supporter will be given out, provided by the help of the osu! staff (thanks!). We'll be giving out osu! UCI merchandise, mainly in the form of our cute charms that we've made last year. <a href="http://osuuci.com/officers/#aaron">Aaron</a> has also been kind enough to also donate a few of his two-K keyboards that he personally built himself for the top 4 placers. Finally, the top Master player will receive a cash prize for the money left over from our tournament entrance fees. Prizings are subject to change.</p>
+      <p>osu! supporter is provided with the help of the osu! staff (thanks!). osu! UCI merchandise is mainly in the form of the cute charms that we've made last year. <a href="http://osuuci.com/officers/#aaron">Aaron</a> has also been kind enough to also donate a few of his two-K keyboards that he personally built himself for the top 4 placers. Finally, the top Master player receives a cash prize for the money left over from our tournament entrance fees. Prizings are subject to change.</p>
       <img src="charm.png"/>
       <p class="caption">Charms</p>
       <img src="two-K.png"/>
@@ -175,24 +174,70 @@
       </ul>
       
       <h2 id="brackets">Brackets</h2>
-      <p>To be finalized.</p>
-
+      <p>We are using Challonge to keep track of our <a href="http://challonge.com/oflswiss">Swiss</a> and <a href="http://challonge.com/ofltop8">Top 8</a> brackets. Click on your match's match details to get more info about your game. Use the match details' Location tab as your multiplayer lobby name; structured something similar to "OFL: (Player1) vs (Player2)", this particular lobby name allows us to view your match from the osu! tournament client.</p>
+      
+      <p>In addition, the details contain the time of your match and, once received, the corresponding match history link as an attachment. Game winners, please remember to message your lobby's match history to <a href="https://osu.ppy.sh/u/1472763">osuuci dot com</a> as this is the only way for us to confidently confirm your win!</p>
+      
+      <h2 id="swissbracket">Swiss Bracket</h2>
+      <p></p>
+      <iframe src="http://challonge.com/oflswiss/module" width="100%" height="1300" frameborder="0" scrolling="auto" allowtransparency="true"></iframe>
+      
+      <h2 id="top8bracket">Top 8 Bracket</h2>
+      <p></p>
+      <iframe src="http://challonge.com/ofltop8/module" width="100%" height="520" frameborder="0" scrolling="auto" allowtransparency="true"></iframe>
+      
       <h2 id="schedule">Schedule</h2>
-      <p>To be decided.</p>
+      <p>7:00AM - 9:30AM</p>
+      <ul>
+	<li>LAN/tournament setup</li>
+	<li>Only tournament admins need to be present</li>
+      </ul>
+      <p>9:30AM - 10:30AM</p>
+      <ul>
+	<li>Player check in and setup</li>
+      </ul>
+      <p>10:30AM - 11:00AM</p>
+      <ul>
+	<li>Swiss group finalization</li>
+      </ul>
+      <p>11:00AM - 3:00PM</p>
+      <ul>
+	<li>4 rounds of Swiss</li>
+	<li>First to 4 wins for all matches</li>
+	<li>See <a href="#swissbracket">Swiss Bracket</a> for times and lobby information</li>
+	<li>See <a href="#swissmaps">Swiss Map Pool</a> for maps</li>
+      </ul>
+      <p>3:00PM - 4:00PM</p>
+      <ul>
+	<li>Break</li>
+      </ul>
+      <p>4:00PM - 8:00PM</p>
+      <ul>
+	<li>Top 8 single elimination</li>
+	<li>Round of 8 is first to 4 wins</li>
+	<li>Semi-finals and beyond are first to 5 wins</li>
+	<li>See <a href="#top8bracket">Top 8 Bracket</a> for times and lobby information</li>
+	<li>See <a href="#top8maps">Top 8 Map Pool</a> for maps</li>
+      </ul>
+      <p>8:00PM - 9:00PM</p>
+      <ul>
+	<li>Wrap up</li>
+      </ul>
+      
 
       <h2 id="mappools">Map Pools</h2>
       <div>
-        <p>Two map pools will be used - one for Swiss and another for the top 8 single elimination.</p>
-          <h2>Swiss Map Pool</h2>
+        <p>Two map pools are used for the tournament - one for Swiss and another for top 8 single elimination. Both are available for download in bulk on <a href="https://drive.google.com/drive/u/1/folders/0B01E-cOgjYwMcTBtTV9PTnpSYTQ">Drive</a>.</p>
+          <h2 id="swissmaps">Swiss Map Pool</h2>
           <p></p>
             <table>
               <colgroup>
-                <col span="1" style="background-color:#ff5050" width="90px">
-                <col span="1" style="background-color:#ff9933" width="230px">
-                <col span="1" style="background-color:#ff5050" width="150px">
-                <col span="1" style="background-color:#ff9933" width="120px">
-                <col span="1" style="background-color:#ff5050" width="40px">
-                <col span="1" style="background-color:#ff9933" width="40px">
+                <col span="1" style="background-color:#ffa4a4" width="90px">
+                <col span="1" style="background-color:#ffcb98" width="230px">
+                <col span="1" style="background-color:#ffa4a4" width="150px">
+                <col span="1" style="background-color:#ffcb98" width="120px">
+                <col span="1" style="background-color:#ffa4a4" width="40px">
+                <col span="1" style="background-color:#ffcb98" width="40px">
               </colgroup>
               
               <tr>
@@ -377,16 +422,16 @@
         </div>
         
         <div>
-          <h2>Top 8 Map Pool</h2>
+          <h2 id="top8maps">Top 8 Map Pool</h2>
           <p></p>
-                    <table>
+          <table>
               <colgroup>
-                <col span="1" style="background-color:#ff5050" width="90px">
-                <col span="1" style="background-color:#ff9933" width="230px">
-                <col span="1" style="background-color:#ff5050" width="150px">
-                <col span="1" style="background-color:#ff9933" width="120px">
-                <col span="1" style="background-color:#ff5050" width="40px">
-                <col span="1" style="background-color:#ff9933" width="40px">
+                <col span="1" style="background-color:#ffa4a4" width="90px">
+                <col span="1" style="background-color:#ffcb98" width="230px">
+                <col span="1" style="background-color:#ffa4a4" width="150px">
+                <col span="1" style="background-color:#ffcb98" width="120px">
+                <col span="1" style="background-color:#ffa4a4" width="40px">
+                <col span="1" style="background-color:#ffcb98" width="40px">
               </colgroup>
               
               <tr>
@@ -398,7 +443,7 @@
                 <td>Length</td>
               </tr>
               <tr>
-                <td>Doubletime</td>
+                <td>Double Time</td>
                 <td><a href="https://osu.ppy.sh/b/316258">Sentimental Love</a></td>
                 <td>mimimemeMIMI</td>
                 <td>Insane</td>
@@ -406,23 +451,23 @@
                 <td>3:04</td>
               </tr>
               <tr>
-                <td>Doubletime</td>
+                <td>Double Time</td>
                 <td><a href="https://osu.ppy.sh/b/558277?m=0">Torinoko City</a></td>
                 <td>Hanatan</td>
                 <td>Insane</td>
-                <td></td>
-                <td> </td>
+                <td>5.32</td>
+                <td>2:13</td>
               </tr>
               <tr>
-                <td>Doubletime</td>
+                <td>Double Time</td>
                 <td><a href="https://osu.ppy.sh/b/634245&m=0">My Truth Rondo Capriccioso</a></td>
                 <td>Taneda Risa</td>
                 <td>April</td>
                 <td>5.51</td>
-                <td></td>
+                <td>3:19</td>
               </tr>
               <tr>
-                <td>Doubletime</td>
+                <td>Double Time</td>
                 <td><a href="https://osu.ppy.sh/b/380012">Koyoi Index</a></td>
                 <td>senya</td>
                 <td>Lunatic</td>
@@ -430,7 +475,7 @@
                 <td>2:27</td>
               </tr>
               <tr>
-                <td>Doubletime</td>
+                <td>Double Time</td>
                 <td><a href="https://osu.ppy.sh/b/153771?m=0">Miren</a></td>
                 <td>Chata</td>
                 <td>Insane</td>
@@ -450,7 +495,7 @@
                 <td><a href="https://osu.ppy.sh/b/318975">MORE&amp;MORE</a></td>
                 <td>Toyosaki Aki</td>
                 <td>Insane</td>
-                <td></td>
+                <td>5.4</td>
                 <td>3:38</td>
               </tr>
               <tr>
