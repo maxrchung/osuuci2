@@ -113,7 +113,7 @@
       <p class="caption">Emerald Bay Rooms in the Student Center</p>
       
       <h2 id="registration">Registration</h2>
-      <p>To help cover rental costs for the event, we are charging a $5 entrance fee for tournament entrants. If you are here to simply spectate or to play in our casual lobbies, you do not need to pay. We accept payment in-person or through PayPal. Extra cash will be put into the prizing for the Master's division first place prize.</p>
+      <p>To help cover rental costs for the event, we are charging a $5 entrance fee for tournament entrants. If you are here to simply spectate or to play in our casual lobbies, you do not need to pay. We accept payment in-person or through PayPal. Extra cash will be put into the prizing for the 1st place prize.</p>
       <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
 	<input type="hidden" name="cmd" value="_s-xclick">
 	<input type="hidden" name="hosted_button_id" value="T4SUEEPJT6NQ2">
@@ -174,7 +174,7 @@
       </ul>
       
       <h2 id="brackets">Brackets</h2>
-      <p>We are using Challonge to keep track of our <a href="http://challonge.com/oflswiss">Swiss</a> and <a href="http://challonge.com/ofltop8">Top 8</a> brackets. Click on your match's match details to get more info about your game. Use the match details' Location tab as your multiplayer lobby name; structured something similar to "OFL: (Player1) vs (Player2)", this particular lobby name allows us to view your match from the osu! tournament client.</p>
+      <p>We are using Challonge to keep track of our <a href="http://challonge.com/oflswiss">Swiss</a> and <a href="http://challonge.com/ofltop8">Top 8</a> brackets. Click on a match's Match Details to get more info about a game. Use the match details' Location tab as your multiplayer lobby name; structured something similar to "OFL: (Player1) vs (Player2)", this particular lobby name allows us to view your match from the osu! tournament client.</p>
       
       <p>In addition, the details contain the time of your match and, once received, the corresponding match history link as an attachment. Game winners, please remember to message your lobby's match history to <a href="https://osu.ppy.sh/u/1472763">osuuci dot com</a> as this is the only way for us to confidently confirm your win!</p>
       
